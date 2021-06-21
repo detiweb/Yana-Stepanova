@@ -1,0 +1,91 @@
+.hhh{
+	text-decoration:underline;
+}
+body{
+	margin:0;
+	padding:0;
+font-family: 'Montserrat', sans-serif;
+background-color:#7F57A0
+
+;
+}
+header{
+	background-color:#7F57A0
+;
+}
+.head , h1{
+	color:white;
+
+}
+.head{
+	font-size:20px;
+}
+a{
+	text-decoration:none;
+}
+p{
+display:inline-block;
+}
+.rr{
+	margin-left:100px;
+}
+.hub{
+	border-radius:10px;
+	background-color:#9262B8;
+	padding:10px;
+	margin-left:50px;
+	color:white;
+}
+
+.hub:hover{
+	background-color:#704C8E;
+}
+.card{
+	width: 20%;
+}
+.new{
+	margin-left:90px;
+	margin-right:90px;
+}
+.nado{
+	color:white;
+	text-decoration:underline;
+}
+.nado2{
+	margin-left: 10px;
+}
+h2{
+	color:white;
+}
+.need{
+	color:white;
+}
+.fon{
+	background-image:url(кода.png);
+}
+.fff{
+	background-color:#704C8E;
+	padding:20px;
+	border-radius:10px;
+}
+footer{
+	background-color:#7F57A0;
+	padding:10px;
+}
+.img{
+	position:fixed;
+	left:10px;
+	bottom:10px;
+	border-radius:100px;
+	height:50px;
+}
+header{
+	position:fixed;
+	top:0px;
+	right:0px;
+
+	padding:10px;
+		padding-top:0px;
+	border-radius:5px;
+	border:3px solid #704C8E;
+}
